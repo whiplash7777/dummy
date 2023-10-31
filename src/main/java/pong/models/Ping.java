@@ -1,2 +1,4 @@
-package pong.models;public class Ping {
+package pong.models;
+
+public class Ping {
 }
